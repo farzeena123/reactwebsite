@@ -1,0 +1,10 @@
+.profilephoto{
+    width: 100px;
+    height: 100px;
+}
+.background{
+    background-image: url(https://live.staticflickr.com/8571/15997042074_54464ac3ac.jpg);
+}
+.link{
+    color: aliceblue;
+}
